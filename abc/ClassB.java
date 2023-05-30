@@ -12,6 +12,8 @@ public class ClassB extends classA{
 		ClassB b = new ClassB();
 		b.test(200l);
 		b.test(10);
+		
+		//hi
 				
 	}
 
