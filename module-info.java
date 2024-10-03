@@ -6,4 +6,5 @@
  *
  */
 module Practice {
+    requires java.xml;
 }
